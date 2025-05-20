@@ -19,8 +19,6 @@ A simple web app that displays information about countries using the [REST Count
 - Styled layout with CSS Grid
 - Fully responsive front-end
 
-## 🖼️ Screenshot
-
 ![Screenshot](screenshot.png) <!-- Replace this with the path to your actual screenshot -->
 
 ## 🛠️ Technologies Used
