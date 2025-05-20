@@ -21,6 +21,7 @@ A simple web app that displays information about countries using the [REST Count
 
 ![Screenshot](screenshot.png) <!-- Replace this with the path to your actual screenshot -->
 
+
 ## 🛠️ Technologies Used
 
 - HTML5
