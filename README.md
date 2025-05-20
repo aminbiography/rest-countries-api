@@ -163,7 +163,7 @@ This project is licensed under the MIT License.
 REST Countries API
 ```
 
-You can copy and paste this directly into your `README.md` file. Let me know if you want a deployed version or extra enhancements!
+You can copy and paste this directly into your `README.md` file. Let me know if you want a deployed version or extra enhancements.
 
 ```
 
