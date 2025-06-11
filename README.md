@@ -31,12 +31,11 @@ A simple web app that displays information about countries using the [REST Count
 
 ## 📂 Project Structure
 
-rest-countries-api/
-├── index.html # Main HTML file
-├── style.css # CSS styling
-├── countries.js # JavaScript logic
-└── README.md # Project documentation
-
+project/
+│
+├── index.html
+├── countries.js
+└── style.css
 
 ## 📜 How It Works
 
