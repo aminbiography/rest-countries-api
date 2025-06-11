@@ -30,13 +30,13 @@ A simple web app that displays information about countries using the [REST Count
 - REST Countries API
 
 ## 📂 Project Structure
-
+```
 project/
 │
 ├── index.html
 ├── countries.js
 └── style.css
-
+```
 ## 📜 How It Works
 
 1. `countries.js` fetches all countries from the API on page load.
