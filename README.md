@@ -30,6 +30,7 @@ A simple web app that displays information about countries using the [REST Count
 - REST Countries API
 
 ## 📂 Project Structure
+<<<<<<< HEAD
 
 rest-countries-api/
 ├── index.html # Main HTML file
@@ -38,6 +39,15 @@ rest-countries-api/
 └── README.md # Project documentation
 
 
+=======
+```
+project/
+│
+├── index.html
+├── countries.js
+└── style.css
+```
+>>>>>>> 8d6b9ce74683da76f4abcc8fff4d8b6d9db19530
 ## 📜 How It Works
 
 1. `countries.js` fetches all countries from the API on page load.
@@ -160,11 +170,16 @@ This project is licensed under the MIT License.
 
 🙏 Acknowledgements
 REST Countries API
+<<<<<<< HEAD
 ```
 
 You can copy and paste this directly into your `README.md` file. Let me know if you want a deployed version or extra enhancements.
 
 ```
+=======
+
+---
+>>>>>>> 8d6b9ce74683da76f4abcc8fff4d8b6d9db19530
 
 
 
