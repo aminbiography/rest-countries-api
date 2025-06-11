@@ -19,9 +19,6 @@ A simple web app that displays information about countries using the [REST Count
 - Styled layout with CSS Grid
 - Fully responsive front-end
 
-![Screenshot](screenshot.png) <!-- Replace this with the path to your actual screenshot -->
-
-
 ## 🛠️ Technologies Used
 
 - HTML5
@@ -81,6 +78,26 @@ Used Data Fields:
 
 - region
 
+💻 HTML Overview
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rest Countries</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h2 class="heading">Rest Countries</h2>
+  <div id="countries" class="countries"></div>
+  <script src="countries.js"></script>
+</body>
+</html>
+```
+
 🎨 CSS Overview
 
 ```
@@ -106,26 +123,6 @@ Used Data Fields:
 .country img {
   width: 300px;
 }
-```
-
-💻 HTML Overview
-
-```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Rest Countries</title>
-  <link rel="stylesheet" href="style.css" />
-</head>
-<body>
-  <h2 class="heading">Rest Countries</h2>
-  <div id="countries" class="countries"></div>
-  <script src="countries.js"></script>
-</body>
-</html>
 ```
 
 ⚙️ JavaScript Overview
