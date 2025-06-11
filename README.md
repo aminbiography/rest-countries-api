@@ -39,7 +39,7 @@ rest-countries-api/
 └── README.md # Project documentation
 ```
 
-```
+---
 
 ## 📜 How It Works
 
@@ -163,16 +163,13 @@ This project is licensed under the MIT License.
 
 🙏 Acknowledgements
 REST Countries API
-<<<<<<< HEAD
+
 ```
 
 You can copy and paste this directly into your `README.md` file. Let me know if you want a deployed version or extra enhancements.
 
 ```
-=======
 
----
->>>>>>> 8d6b9ce74683da76f4abcc8fff4d8b6d9db19530
 
 
 
